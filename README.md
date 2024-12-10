@@ -37,10 +37,10 @@ Welcome to my GitHub!
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### Github Stats
-![pro](https://img.shields.io/badge/-PRO-blueviolet?style=for-the-badge&logo=github) ![follows](https://img.shields.io/github/followers/guilherminog?style=for-the-badge) ![stars](https://img.shields.io/github/stars/guilherminog?style=for-the-badge) 
+![pro](https://img.shields.io/badge/-PRO-blueviolet?style=for-the-badge&logo=github) ![follows](https://img.shields.io/github/followers/antonionipo?style=for-the-badge) ![stars](https://img.shields.io/github/stars/antonionipo?style=for-the-badge) 
  
- ![stats](https://github-readme-stats.vercel.app/api?username=iantonionipo&show_icons=true&theme=light)
- ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=iantonionipo&layout=compact&theme=light)
+ ![stats](https://github-readme-stats.vercel.app/api?username=antonionipo&show_icons=true&theme=light)
+ ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=antonionipo&layout=compact&theme=light)
  
 ---
 
@@ -48,4 +48,4 @@ Welcome to my GitHub!
  
  - 📧 e-Mail:               antoniofbnipo@gmail.com
   
- <img src="https://komarev.com/ghpvc/?username=igantonionipo" alt="https://github.com/antonionipo" />
+ <img src="https://komarev.com/ghpvc/?username=antonionipo" alt="https://github.com/antonionipo" />
